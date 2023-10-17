@@ -110,7 +110,11 @@ GameObject:
   - component: {fileID: 1221792059}
   m_Layer: 0
   m_Name: AngryDuck
+<<<<<<< Updated upstream
   m_TagString: Untagged
+=======
+  m_TagString: Player
+>>>>>>> Stashed changes
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -417,6 +421,10 @@ SkinnedMeshRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+<<<<<<< Updated upstream
+=======
+  m_RayTracingMode: 0
+>>>>>>> Stashed changes
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -428,6 +436,10 @@ SkinnedMeshRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+<<<<<<< Updated upstream
+=======
+  m_ReceiveGI: 1
+>>>>>>> Stashed changes
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
